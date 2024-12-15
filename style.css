@@ -389,7 +389,13 @@ p {
 }
 
 footer {
-    margin-top: 5vh;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: auto; margin-top: 10vh;
 }
 
 footer p {
@@ -547,6 +553,9 @@ footer p {
         font-size: 1rem;
         margin: 0;
     }
+    .game-icon{
+        width: 10vw;
+    }
     .logo {
         width: 15vw;
         height: 15vw;
@@ -631,5 +640,12 @@ footer p {
 
     .faq p {
         font-size: 0.5rem;
+       
+    }
+    footer{
+         margin-bottom: 5vh;
+    }
+    footer p {
+        font-size: 0.8rem;
     }
 }
