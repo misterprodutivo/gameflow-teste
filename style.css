@@ -627,9 +627,11 @@ footer p {
         height: 70vh;
     }
     .oferta:nth-child(2) {
-        height: 100vh;
+        height: 110vh;
     }
-
+    .preco-novo{
+        font-size: 1.5rem;
+    }
     .nome-oferta, .preco{
         margin-bottom: 2vh;
     }
