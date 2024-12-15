@@ -541,7 +541,7 @@ footer p {
     section {
         width: 90vw;
         margin: auto;
-        margin-top: 2vh;
+        margin-top: 5vh;
     }
     p {
         font-size: 1rem;
@@ -563,10 +563,10 @@ footer p {
     .setor {
         flex-direction: column;
         position: relative;
-        min-height: 40vh;
-        height: auto;
+        height: 45vh;
         margin: 0;
         margin-bottom: 3vh;
+        margin-top: 5vh;
     }
     .area-da-vida {
         width: 70vw;
