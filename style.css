@@ -355,6 +355,16 @@ p {
     width: 70%;
 }
 
+.btn, .btn-compra {
+    text-decoration: none !important;
+    color: white;
+    transition: 0.5s ease;
+}
+
+.btn:hover, .btn-compra:hover {
+    transform: scale(1.05) !important;
+}
+
 
 
 
