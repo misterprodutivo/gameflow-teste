@@ -649,6 +649,7 @@ footer p {
         font-size: 0.8rem;
     }
     .descricao-setor h3 {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
+        font-weight: 400;
     }
 }
