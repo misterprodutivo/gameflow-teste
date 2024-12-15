@@ -529,6 +529,7 @@ footer p {
     }
     body, section {
         padding: 0;
+        margin: 0;
     }
     section {
         width: 90vw;
