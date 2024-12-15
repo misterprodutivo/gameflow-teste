@@ -525,6 +525,7 @@ footer p {
         font-size: 1.2rem;
         margin: auto;
         margin-bottom: 2vh !important;
+        width: 100%;
     }
     body, section {
         padding: 0;
