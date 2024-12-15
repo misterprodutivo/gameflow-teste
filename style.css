@@ -122,7 +122,6 @@ p {
     margin-bottom: 5vh;
     cursor: pointer;
     text-align: center;
-    padding: 2rem;
     background: #1e1e1e;
     /* Cor do fundo da caixa */
     border-radius: 25px;
@@ -528,7 +527,8 @@ footer p {
         margin-bottom: 2vh !important;
     }
     section {
-        width: 100vw;
+        width: 90vw;
+        margin: auto;
     }
     p {
         font-size: 1rem;
@@ -538,10 +538,13 @@ footer p {
         width: 15%;
     }
     .imagem-principal {
-        width: 90vw;
+        width: 100%;
+        margin: auto;
+        margin-top: 3vh;
     }
     a {
         width: 70vw !important;
+        font-size: 0.9rem;
     }
     .setor {
         flex-direction: column;
